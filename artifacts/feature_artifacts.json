@@ -1,0 +1,32 @@
+{
+  "feature_cols": [
+    "tickets_per_minute_by_account_15m",
+    "cum_unique_ips_by_account",
+    "secs_since_prev_purchase_account",
+    "amount_z_by_account",
+    "product_id_code",
+    "amount"
+  ],
+  "product_id_categories": [
+    "P000",
+    "P001",
+    "P002",
+    "P003",
+    "P004",
+    "P005",
+    "P006",
+    "P007",
+    "P008",
+    "P009",
+    "P010",
+    "P011",
+    "P012",
+    "P013",
+    "P014",
+    "P015",
+    "P016",
+    "P017",
+    "P018",
+    "P019"
+  ]
+}

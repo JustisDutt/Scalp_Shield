@@ -1,0 +1,23 @@
+Best threshold (val): 0.35, F1=0.5000
+
+Test @0.5 threshold (labels: non-scalp, scalp):
+              precision    recall  f1-score   support
+
+   non-scalp     0.9730    0.9904    0.9816       729
+       scalp     0.1250    0.0476    0.0690        21
+
+    accuracy                         0.9640       750
+   macro avg     0.5490    0.5190    0.5253       750
+weighted avg     0.9493    0.9640    0.9561       750
+
+Test @tuned threshold (labels: non-scalp, scalp):
+              precision    recall  f1-score   support
+
+   non-scalp     0.9766    0.9753    0.9760       729
+       scalp     0.1818    0.1905    0.1860        21
+
+    accuracy                         0.9533       750
+   macro avg     0.5792    0.5829    0.5810       750
+weighted avg     0.9544    0.9533    0.9539       750
+
+ROC AUC (probability of scalp): 0.8540
