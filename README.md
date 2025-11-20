@@ -3,9 +3,11 @@
 
 This package includes:
 - **scalp_flag**-based data generator
-- Robust feature engineering (fixed pandas rolling)
 - Model training with threshold tuning
 - **Streamlit dashboard** that flags each purchase as green/yellow/red
+
+Requirements:
+- Use python 3.11
 
 ## Quickstart
 
@@ -17,7 +19,7 @@ git clone https://github.com/JustisDutt/Scalp_Shield.git
 cd Scalp_Shield
 
 # (optional) create a venv in this folder
-python -m venv .venv
+python -3.11 -m venv .venv
 . .\.venv\Scripts\Activate.ps1
 
 # install deps
