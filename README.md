@@ -10,6 +10,12 @@ This package includes:
 ## Quickstart
 
 ```powershell
+#Clone repository
+git clone https://github.com/JustisDutt/Scalp_Shield.git
+
+#Enter Directory
+cd Scalp_Shield
+
 # (optional) create a venv in this folder
 python -m venv .venv
 . .\.venv\Scripts\Activate.ps1
