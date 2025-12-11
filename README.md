@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="frontend/public/scalpshield-logo.png" alt="ScalpShield logo" width="400" />
+  <img src="frontend/public/scalpshield-logo.png" alt="ScalpShield logo" width="200" />
 </p>
 
 # ScalpShield (XGBoost)
