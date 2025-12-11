@@ -1,0 +1,6 @@
+transaction_id,user_id,event_id,timestamp,minutes_since_release,tickets,total_amount,ip_purchase_count_24h,user_purchase_count_30d,user_account_age_days,same_card_purchase_count_24h,device_info
+tx_001,user_001,event_rockfest,2025-03-01T19:32:00,10,2,180.0,1,2,120,1,Chrome on Mac
+tx_002,user_002,event_rockfest,2025-03-01T19:35:00,5,8,960.0,5,10,5,7,headless Chrome on Linux
+tx_003,user_003,event_popnight,2025-03-02T10:05:00,60,1,90.0,1,1,365,1,Safari on iOS
+tx_004,user_002,event_popnight,2025-03-02T10:07:00,12,12,1400.0,12,22,4,9,python-requests script
+tx_005,user_004,event_jazz,2025-03-03T23:15:00,240,4,520.0,3,5,30,2,Chrome on Windows
