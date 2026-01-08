@@ -4,6 +4,16 @@
 
 # ScalpShield (XGBoost)
 
+### 📄 One-Page Project Overview
+
+A concise summary of the system architecture, AI pipeline, and production workflow:
+
+➡️ [ScalpShield – AI Risk Classification System (PDF)](./Justis_Dutt_Personal_Project_ScalpShield.pdf)
+
+---
+
+ ## Description
+
 Local demo SaaS for detecting suspicious ticket purchases using a pre trained XGBoost model.
 
 All login, subscription, and payment flows are fully simulated. No real authentication or billing occurs.
