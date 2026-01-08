@@ -8,7 +8,9 @@
 
 A concise summary of the system architecture, AI pipeline, and production workflow:
 
-➡️ [ScalpShield – AI Risk Classification System (PDF)](./Justis_Dutt_Personal_Project_ScalpShield.pdf)
+➡️ [ScalpShield – AI Risk Classification System (PDF)](
+https://github.com/JustisDutt/Scalp_Shield/raw/main/docs/Justis_Dutt_Personal_Project_ScalpShield.pdf
+)
 
 ---
 
